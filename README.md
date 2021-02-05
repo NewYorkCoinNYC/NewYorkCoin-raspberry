@@ -50,7 +50,8 @@ go: url = "https://nycapiserver.newyorkcoin.xyz/balance/RWDyZSjfZMtJG4c6r3xDuUzA
 
 "https://nycapiserver.newyorkcoin.xyz/balance/your-address"
 
-ctrl + x, press s, enter
+ctrl and x 
+#press y to save,then hit enter
 ```
 now do:
 ```
