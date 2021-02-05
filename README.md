@@ -39,14 +39,14 @@ SDA>GPIO.2
 ![dzEcU](img/2nd.png)
 
 Now do:
-```
+```bash
 git clone https://github.com/NewYorkCoinNYC/NewYorkCoin-raspberry
 
 cd NewYorkCoin-raspberry
 
 nano nycscreen.py
-
-go: url = "https://nycapiserver.newyorkcoin.xyz/balance/RWDyZSjfZMtJG4c6r3xDuUzA2tKrz7MGQB" and edit this url with our wallet example:
+#edit this url with our wallet example:
+go: url = "https://nycapiserver.newyorkcoin.xyz/balance/RWDyZSjfZMtJG4c6r3xDuUzA2tKrz7MGQB" 
 
 "https://nycapiserver.newyorkcoin.xyz/balance/your-address"
 
